@@ -1,6 +1,6 @@
 {
-  "name": "socket-chat-engine",
-  "version": "1.0.2",
+  "name": "socket-chat",
+  "version": "1.0.3",
   "description": "A lightweight socket-based chat engine for Node.js backend applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
