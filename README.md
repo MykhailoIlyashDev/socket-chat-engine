@@ -13,7 +13,7 @@ A lightweight socket-based chat engine for Node.js backend applications.
 ## Installation
 
 ```bash
-npm i socket-chat-engine
+npm i socket-chat-flash
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ npm i socket-chat-engine
 ```javascript
 const express = require('express');
 const http = require('http');
-const { SocketChatEngine } = require('mikelenode-chat-engine');
+const { SocketChatEngine } = require('socket-chat-flash');
 
 // Create server
 const app = express();
