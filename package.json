@@ -1,5 +1,5 @@
 {
-  "name": "socket-chat-engine",
+  "name": "simple-socket-chat-engine",
   "version": "1.0.0",
   "description": "A lightweight socket-based chat engine for Node.js backend applications",
   "main": "dist/index.js",
