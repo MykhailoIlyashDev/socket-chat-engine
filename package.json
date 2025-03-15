@@ -1,6 +1,6 @@
 {
-  "name": "socket-chat",
-  "version": "1.0.3",
+  "name": "socket-chat-flash",
+  "version": "1.0.4",
   "description": "A lightweight socket-based chat engine for Node.js backend applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
